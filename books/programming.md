@@ -22,3 +22,14 @@
 ## Javascript
 
 * JavaScript - The Good Parts
+* Kyle Simpson - You Don't Know JS
+* Marijn Haverbeke - Eloquent JavaScript
+* Nicholas C. Zakas - Understanding EcmaScript 6
+* Стоян Стефанов - JavaScript Шаблоны
+
+
+## React
+
+* Aleks Banks and Eve Porcello - Functional Web Learning with React and Redux
+* Anthony Accomazzo - Fullstack React
+
